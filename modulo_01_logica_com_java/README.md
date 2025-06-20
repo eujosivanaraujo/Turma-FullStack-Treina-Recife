@@ -14,7 +14,18 @@ Este repositório reúne exercícios de lógica de programação desenvolvidos d
 
 ## Estrutura dos Exercícios
 
-Os exercícios estão organizados em númeral conforme a aula.
+- Estruturas Iniciais (Imperativas):
+* Linguagem Java
+* Variáveis e Tipos de Dados
+* Operadores
+* Comandos de Entrada e Saída}
+
+- Estruturas de Decisão (Condicionais):
+* if/else
+* switch/case
+- Estruturas de Repetição (Loops):
+* while
+* for
 
 ## Objetivos
 
