@@ -1,0 +1,8 @@
+# Ignore arquivos binários e temporários
+bin/
+target/
+.vscode/
+*.class
+*.log
+*.tmp
+
