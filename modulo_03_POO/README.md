@@ -51,4 +51,9 @@ Cadastro de tarefas com status, prioridade e datas.
 Associação de responsáveis.
 Exibição de dados utilizando boas práticas de POO.
 
+"" Autor
+Desenvolvido por **Josivan Araújo** – em processo de aprendizado contínuo na jornada Java!
+
+Este repositório é voltado para estudos. Fique à vontade para clonar, adaptar e praticar os exemplos por conta própria.
+
 
