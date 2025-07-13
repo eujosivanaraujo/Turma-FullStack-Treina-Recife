@@ -28,6 +28,7 @@ Este módulo é dedicado ao estudo e prática dos principais conceitos da Progra
 Cada aula contém exemplos práticos separados em arquivos .java.
 A classe App.java contém o método main() responsável por executar os testes.
 
+```bash
 modulo_03_POO/
 ├── Aula1/
 │   └── Livro.java
@@ -41,6 +42,7 @@ modulo_03_POO/
 │   ├── constants/
 │   └── ...
 └── README.md
+```
 
 ## 🚀 Projeto final
 Ao fim do módulo, foi desenvolvido um sistema de gerenciamento de projetos, com:
