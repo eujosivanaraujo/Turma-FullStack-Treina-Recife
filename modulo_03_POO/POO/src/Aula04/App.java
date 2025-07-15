@@ -1,11 +1,4 @@
-import Aula04.Barco;
-import Aula04.Cachorro;
-import Aula04.Carro;
-import Aula04.Estagiario;
-import Aula04.Funcionario;
-import Aula04.Gato;
-import Aula04.Gerente;
-
+package Aula04;
 public class App {
 
     public static void main(String[] args) {

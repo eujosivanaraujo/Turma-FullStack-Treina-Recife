@@ -13,30 +13,30 @@ import model.Usuario;
 public class App {
     public static void main(String[] args) throws Exception {
         Tarefas tarefaUm = new Tarefas();
-        tarefaUm.setTitulo("Modulo 1 - Lógica de programação");
+        tarefaUm.setTitulo("Criando banco de dados");
         tarefaUm.setStatus(StatusTarefa.CONCLUIDA);
-        tarefaUm.setPrioridade(Prioridade.BAIXA);
+        tarefaUm.setPrioridade(Prioridade.ALTA);
         tarefaUm.setDataDeCriacao(LocalDate.of(2025, 5, 1));
         tarefaUm.setDataDeConclusao(LocalDate.of(2025, 5, 30));
         
         Tarefas tarefaDois = new Tarefas();
-        tarefaDois.setTitulo("Modulo 2 - Git e GitHub");
-        tarefaDois.setStatus(StatusTarefa.FAZENDO);
+        tarefaDois.setTitulo("Criando interface de login");
+        tarefaDois.setStatus(StatusTarefa.CONCLUIDA);
         tarefaDois.setPrioridade(Prioridade.ALTA);
         tarefaDois.setDataDeCriacao(LocalDate.of(2025, 6, 2));
         tarefaDois.setDataDeConclusao(LocalDate.of(2025, 6, 30));
 
         Tarefas tarefaTres = new Tarefas();
-        tarefaTres.setTitulo("Modulo 3 - POO");
+        tarefaTres.setTitulo("Configurar ambiente de testes e homologação");
         tarefaTres.setStatus(StatusTarefa.FAZENDO);
         tarefaTres.setPrioridade(Prioridade.ALTA);
         tarefaTres.setDataDeCriacao(LocalDate.of(2025, 7, 1));
         tarefaTres.setDataDeConclusao(LocalDate.of(2025, 7, 30));
 
         Tarefas tarefaQuatro = new Tarefas();
-        tarefaQuatro.setTitulo("Modulo 4 - MySQL");
+        tarefaQuatro.setTitulo("Implementar API REST para autenticação");
         tarefaQuatro.setStatus(StatusTarefa.PENDENTE);
-        tarefaQuatro.setPrioridade(Prioridade.MEDIA);
+        tarefaQuatro.setPrioridade(Prioridade.ALTA);
         tarefaQuatro.setDataDeCriacao(LocalDate.of(2025, 7, 10));
         tarefaQuatro.setDataDeConclusao(LocalDate.of(2025, 8, 10));
 
